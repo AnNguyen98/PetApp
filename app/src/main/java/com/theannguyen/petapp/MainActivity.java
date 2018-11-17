@@ -31,6 +31,9 @@ public class MainActivity extends AppCompatActivity {
         ArrayList arrayList1 = new ArrayList();
 
         Log.i("Test","Hello world!");
+        Log.i("Test","Hello world!");
+        Log.i("Test","Hello world!");
+
 
         for(Integer i: arrayList){
 
