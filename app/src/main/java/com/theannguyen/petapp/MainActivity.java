@@ -33,6 +33,7 @@ public class MainActivity extends AppCompatActivity {
         Log.i("Test","Hello world!");
         Log.i("Test","Hello world!");
         Log.i("Test","Hello world!");
+        Log.i("Test","Hello world!");
 
 
         for(Integer i: arrayList){
