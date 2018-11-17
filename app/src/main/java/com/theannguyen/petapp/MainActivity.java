@@ -2,6 +2,7 @@ package com.theannguyen.petapp;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
@@ -29,8 +30,10 @@ public class MainActivity extends AppCompatActivity {
         HashMap hashMap1 = new HashMap();
         ArrayList arrayList1 = new ArrayList();
 
+        Log.i("Test","Hello world!");
+
         for(Integer i: arrayList){
- 
+
         }
 
         findID();
